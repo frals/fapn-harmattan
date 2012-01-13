@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/qml">
+        <file alias="main.qml">qml/fapn/main.qml</file>
+        <file alias="MainPage.qml">qml/fapn/MainPage.qml</file>
+    </qresource>
+</RCC>
